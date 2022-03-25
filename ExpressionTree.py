@@ -6,18 +6,6 @@
 #  Evaluate the expression and print the result. 
 #  Print the prefix and postfix versions of the same expression without any parentheses.
 
-#  Student's Name: Samuel Pomajevich
-
-#  Student's UT EID: SRP2938
-
-#  Partner's Name: Natania Christopher
-
-#  Partner's UT EID: nnc476
-
-#  Course Name: CS 313E 
-
-#  Unique Number: 50845
-
 #  Date Created: 11/12/2020
 
 #  Date Last Modified: 11/12/2020
