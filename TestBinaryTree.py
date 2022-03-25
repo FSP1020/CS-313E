@@ -3,18 +3,6 @@
 #  Description: Takes in three possible trees and tests whether they
 #  are similar, prints a level of the tree, the height and the number of nodes.
 
-#  Student Name: Samuel Pomajevich
-
-#  Student UT EID: SRP2938
-
-#  Partner Name: Natania Christopher
-
-#  Partner UT EID: nnc476
-
-#  Course Name: CS 313E
-
-#  Unique Number: 50845
-
 #  Date Created: 11/19/2020
 
 #  Date Last Modified: 11/20/2020
