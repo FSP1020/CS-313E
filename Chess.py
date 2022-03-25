@@ -4,18 +4,6 @@
 #  Description: Takes in an integer n and prints the total number of ways
 # that the queens can be places on the board.
 
-#  Student Name: Samuel Pomajevich
-
-#  Student UT EID: SRP2938
-
-#  Partner Name: Natania Christopher
-
-#  Partner UT EID: nnc476
-
-#  Course Name: CS 313E
-
-#  Unique Number: 50845
-
 #  Date Created: 10/22/2020
 
 #  Date Last Modified: 10/23/2020
