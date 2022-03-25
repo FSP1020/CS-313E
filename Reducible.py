@@ -4,18 +4,6 @@
 # words that reduce from 10 letters to 1, with each step being a
 # word in the dictionary.
 
-#  Student Name: Samuel Pomajevich
-
-#  Student UT EID: SRP2938
-
-#  Partner Name: Natania Christopher
-
-#  Partner UT EID: nnc476
-
-#  Course Name: CS 313E
-
-#  Unique Number: 50845
-
 #  Date Created: 10/29/2020
 
 #  Date Last Modified: 10/30/2020
