@@ -2,18 +2,6 @@
 
 #  Description: Taking in a key sentence, encrypt a word and decrypt a word.
 
-#  Student Name: Samuel Pomajevich
-
-#  Student UT EID: SRP2938
-
-#  Partner Name: Natania Christopher
-
-#  Partner UT EID: nnc476
-
-#  Course Name: CS 313E
-
-#  Unique Number: 50845
-
 #  Date Created: 11/16/2020
 
 #  Date Last Modified: 11/16/2020
