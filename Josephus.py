@@ -3,18 +3,6 @@
 #  Description: Use circular linked list to determine
 #  last soldier standing.
 
-#  Student Name: Samuel Pomajevich
-
-#  Student UT EID: SRP2938
-
-#  Partner Name: Natania Christopher
-
-#  Partner UT EID: nnc476
-
-#  Course Name: CS 313E
-
-#  Unique Number: 50845
-
 #  Date Created: 11/9/2020
 
 #  Date Last Modified: 11/10/2020
