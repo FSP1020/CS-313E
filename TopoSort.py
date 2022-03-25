@@ -3,18 +3,6 @@
 #  Description: Given a graph and its vertices and edges.
 #  Detmine if there is a cycle and toposort.
 
-#  Student Name: Samuel Pomajevich
-
-#  Student UT EID: SRP2938
-
-#  Partner Name: Natania Christopher
-
-#  Partner UT EID: nnc476
-
-#  Course Name: CS 313E
-
-#  Unique Number: 50845
-
 #  Date Created: 11/25/2020
 
 #  Date Last Modified: 12/2/2020
