@@ -3,18 +3,6 @@
 #  Description: Given an input file, print the cities by depth first search,
 #  breadth first frist, print after deleting an edge and then a vetex.
 
-#  Student Name: Samuel Pomajevich
-
-#  Student UT EID: SRP2938
-
-#  Partner Name: Natania Christopher
-
-#  Partner UT EID: nnc476
-
-#  Course Name: CS 313E
-
-#  Unique Number: 50845
-
 #  Date Created: 11/23/2020
 
 #  Date Last Modified: 11/23/2020
