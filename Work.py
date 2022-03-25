@@ -3,18 +3,6 @@
 #  Description: Use binary search and linear search
 # to find minimum number of lines needed.
 
-#  Student Name: Samuel Pomajevich
-
-#  Student UT EID: SRP2938
-
-#  Partner Name: Natania Christopher
-
-#  Partner UT EID: nnc476
-
-#  Course Name: CS 313E
-
-#  Unique Number: 50845
-
 #  Date Created: 10/29/2020
 
 #  Date Last Modified: 10/29/2020
