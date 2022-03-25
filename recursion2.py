@@ -2,18 +2,6 @@
 
 #  Description: Numerous recursion excersises.
 
-#  Student Name: Samuel Pomajevich
-
-#  Student UT EID: SRP2938
-
-#  Partner's Name: Natania Christopher
-
-#  Partner's UT EID: 
-
-#  Course Name: CS 313E
-
-#  Unique Number: 50845
-
 #  Date Created: 10/11/2020
 
 #  Date Last Modified: 10/12/2020
