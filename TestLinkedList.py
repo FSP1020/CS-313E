@@ -3,18 +3,6 @@
 #  Description: Helper methods for the LinkedList class that we developed in 
 #  class and testing them in main.
 
-#  Student Name: Samuel Pomajevich
-
-#  Student UT EID: SRP2938
-
-#  Partner Name: Natania Christophe
-
-#  Partner UT EID: nnc476
-
-#  Course Name: CS 313E
-
-#  Unique Number: 50845
-
 #  Date Created: 11//8/2020
 
 #  Date Last Modified: 11/8/2020
