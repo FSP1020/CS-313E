@@ -2,18 +2,6 @@
 
 # Description: Calculates and displays fibonacci series in terms of 1s and 0s.
 
-# Student's Name: Samuel Pomajevich
-
-# Student's UT EID: SRP2938
-
-# Partner's Name: Natania Christopher
-
-# Partner's UT EID: nnc476
-
-# Course Name: CS 313E
-
-# Unique Number: 50845
-
 # Date Created: 10/8/2020
 
 # Date Last Modified: 10/8/2020
