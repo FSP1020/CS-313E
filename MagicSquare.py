@@ -2,18 +2,6 @@
 
 #  Description: Given n, find all perfect squares of size n x n.
 
-#  Student Name: Samuel Pomajevich
-
-#  Student UT EID: SRP2938
-
-#  Partner Name: Natania Christopher
-
-#  Partner UT EID: nnc476
-
-#  Course Name: CS 313E
-
-#  Unique Number: 50845
-
 #  Date Created: 10/18/2020
 
 #  Date Last Modified: 10/19/2020
