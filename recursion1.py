@@ -1,15 +1,5 @@
 #  File: recursion1.py 
 
-#  Description:
-
-#  Student Name: Sam Pomajevich
-
-#  Student UT EID: SRP2938
-
-#  Course Name: CS 313E
-
-#  Unique Number: 50845
-
 #  Date Created: 10/5/2020
 
 #  Date Last Modified: 10/7/2020
