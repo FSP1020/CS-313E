@@ -4,18 +4,6 @@
 #  Description: Print the vertices of the convex hull starting
 #  at the extreme left point and going clockwise around the convex hull
 
-#  Student Name: Samuel Pomajevich
-
-#  Student UT EID: SRP2938
-
-#  Partner Name: Natania Christopher
-
-#  Partner UT EID: nnc476
-
-#  Course Name: CS 313E
-
-#  Unique Number: 50845
-
 #  Date Created: 10/29/2020
 
 #  Date Last Modified: 10/29/2020
