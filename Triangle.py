@@ -4,18 +4,6 @@
 #  Description: Find larget path sum of a triangle using different search
 # methods and timing them.
 
-#  Student Name: Samuel Pomajevich
-
-#  Student UT EID: SRP2938
-
-#  Partner Name: Natania Christopher
-
-#  Partner UT EID: nnc476
-
-#  Course Name: CS 313E
-
-#  Unique Number: 50845
-
 #  Date Created: 10/26/2020
 
 #  Date Last Modified: 10/26/2020
