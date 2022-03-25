@@ -3,18 +3,6 @@
 
 #  Description: Program determines how many boxes fit within other boxes.
 
-#  Student Name: Samuel Pomajevich
-
-#  Student UT EID: SRP2938
-
-#  Partner Name: Natania Christopher
-
-#  Partner UT EID: nnc476
-
-#  Course Name: CS 313E
-
-#  Unique Number: 50845
-
 #  Date Created: 10/14/2020
 
 #  Date Last Modified: 10/16/2020
